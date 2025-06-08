@@ -9,3 +9,7 @@ See the original one: https://github.com/bbatsov/prelude
 ```shell
 git clone git@github.com:ryokbys/prelude_RK.git ~/.emacs.d
 ```
+
+## Personalize
+
+Only files under `.emacs.d/personal/` directory are modified from the original.
